@@ -14,4 +14,4 @@ Cuando haya una versión nueva, el instalador nuevo se instala encima en un minu
 
 Contacto: depura@forwardmindshift.net · https://www.forwardmindshift.net/
 
-Un producto de Forward Mindshift LLC.
+Un producto de Forward Mindshift.
